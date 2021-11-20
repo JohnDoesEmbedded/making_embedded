@@ -57,7 +57,7 @@ The main goals would be:
 The embedded system will have to properly apply voltage accross the matrix to determine which button is being pressed. Then display the number or function of that button appropriately on the LCD. As well as be able to communicate button inputs via USB to a computer if it is plugged in.
 
 <center>
-<img src="imgs/HexCalcBlockDiagram.jpg"
+<img src="imgs/HexCalcBlockDiagram.png"
     alt="As you can tell I have no idea what I'm doing"
     width=300px
     height=auto>
